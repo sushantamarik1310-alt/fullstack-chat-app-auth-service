@@ -25,6 +25,7 @@ target/
 # Environment
 .env
 *.properties.local
+src/main/resources/application.properties
 
 # Build
 build/
@@ -42,3 +43,5 @@ yarn-error.log*
 
 # System files
 Thumbs.db
+
+
