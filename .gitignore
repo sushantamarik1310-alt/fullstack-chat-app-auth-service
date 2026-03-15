@@ -1,0 +1,44 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# MacOS
+.DS_Store
+
+# Environment
+.env
+*.properties.local
+
+# Build
+build/
+dist/
+
+# Logs
+*.log
+logs/
+
+# Node modules (if any frontend code)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+Thumbs.db
